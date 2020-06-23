@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.1714d59d.chunk.css",
-    "main.js": "/static/js/main.3c7fd9d8.chunk.js",
-    "main.js.map": "/static/js/main.3c7fd9d8.chunk.js.map",
+    "main.css": "/static/css/main.df1cb906.chunk.css",
+    "main.js": "/static/js/main.f5de67c0.chunk.js",
+    "main.js.map": "/static/js/main.f5de67c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40f8ce85.js",
     "runtime-main.js.map": "/static/js/runtime-main.40f8ce85.js.map",
     "static/css/2.f47422e6.chunk.css": "/static/css/2.f47422e6.chunk.css",
-    "static/js/2.daf86112.chunk.js": "/static/js/2.daf86112.chunk.js",
-    "static/js/2.daf86112.chunk.js.map": "/static/js/2.daf86112.chunk.js.map",
+    "static/js/2.be2b268c.chunk.js": "/static/js/2.be2b268c.chunk.js",
+    "static/js/2.be2b268c.chunk.js.map": "/static/js/2.be2b268c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf94377e1674b1d41a1578a14b1da4b7.js": "/precache-manifest.bf94377e1674b1d41a1578a14b1da4b7.js",
+    "precache-manifest.28f5018e259bec7c4bcfba094492117c.js": "/precache-manifest.28f5018e259bec7c4bcfba094492117c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f47422e6.chunk.css.map": "/static/css/2.f47422e6.chunk.css.map",
-    "static/css/main.1714d59d.chunk.css.map": "/static/css/main.1714d59d.chunk.css.map",
-    "static/js/2.daf86112.chunk.js.LICENSE.txt": "/static/js/2.daf86112.chunk.js.LICENSE.txt",
+    "static/css/main.df1cb906.chunk.css.map": "/static/css/main.df1cb906.chunk.css.map",
+    "static/js/2.be2b268c.chunk.js.LICENSE.txt": "/static/js/2.be2b268c.chunk.js.LICENSE.txt",
+    "static/media/announ.svg": "/static/media/announ.0e112d9c.svg",
+    "static/media/citations.svg": "/static/media/citations.c2f7e36b.svg",
     "static/media/empty.svg": "/static/media/empty.3e935ffe.svg",
+    "static/media/events.svg": "/static/media/events.76a3ffff.svg",
     "static/media/loader.svg": "/static/media/loader.5a306b20.svg",
-    "static/media/message3.svg": "/static/media/message3.10cb2302.svg"
+    "static/media/message3.svg": "/static/media/message3.10cb2302.svg",
+    "static/media/profilee.svg": "/static/media/profilee.c9733686.svg",
+    "static/media/settings.svg": "/static/media/settings.b612a79c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.40f8ce85.js",
     "static/css/2.f47422e6.chunk.css",
-    "static/js/2.daf86112.chunk.js",
-    "static/css/main.1714d59d.chunk.css",
-    "static/js/main.3c7fd9d8.chunk.js"
+    "static/js/2.be2b268c.chunk.js",
+    "static/css/main.df1cb906.chunk.css",
+    "static/js/main.f5de67c0.chunk.js"
   ]
 }
