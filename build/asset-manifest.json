@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f4b72b8.chunk.css",
-    "main.js": "/static/js/main.5a32103e.chunk.js",
-    "main.js.map": "/static/js/main.5a32103e.chunk.js.map",
+    "main.css": "/static/css/main.09ea25b4.chunk.css",
+    "main.js": "/static/js/main.2434945e.chunk.js",
+    "main.js.map": "/static/js/main.2434945e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.98076ead.js",
     "runtime-main.js.map": "/static/js/runtime-main.98076ead.js.map",
     "static/css/2.f47422e6.chunk.css": "/static/css/2.f47422e6.chunk.css",
-    "static/js/2.5c5afb8d.chunk.js": "/static/js/2.5c5afb8d.chunk.js",
-    "static/js/2.5c5afb8d.chunk.js.map": "/static/js/2.5c5afb8d.chunk.js.map",
+    "static/js/2.4cf8cc29.chunk.js": "/static/js/2.4cf8cc29.chunk.js",
+    "static/js/2.4cf8cc29.chunk.js.map": "/static/js/2.4cf8cc29.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.13ea8ad166cf7cec8d977d3e98f87fa8.js": "/precache-manifest.13ea8ad166cf7cec8d977d3e98f87fa8.js",
+    "precache-manifest.fceafb5005bb2f8ccc9dc54e4664f9b9.js": "/precache-manifest.fceafb5005bb2f8ccc9dc54e4664f9b9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f47422e6.chunk.css.map": "/static/css/2.f47422e6.chunk.css.map",
-    "static/css/main.8f4b72b8.chunk.css.map": "/static/css/main.8f4b72b8.chunk.css.map",
-    "static/js/2.5c5afb8d.chunk.js.LICENSE.txt": "/static/js/2.5c5afb8d.chunk.js.LICENSE.txt",
+    "static/css/main.09ea25b4.chunk.css.map": "/static/css/main.09ea25b4.chunk.css.map",
+    "static/js/2.4cf8cc29.chunk.js.LICENSE.txt": "/static/js/2.4cf8cc29.chunk.js.LICENSE.txt",
     "static/media/announ.svg": "/static/media/announ.7c05f84e.svg",
     "static/media/car.svg": "/static/media/car.c8dd5726.svg",
     "static/media/citations.svg": "/static/media/citations.24f82209.svg",
@@ -26,6 +26,7 @@
     "static/media/message3.svg": "/static/media/message3.10cb2302.svg",
     "static/media/otp.svg": "/static/media/otp.65b29cd8.svg",
     "static/media/parkstash_logo.png": "/static/media/parkstash_logo.ab0d6bfb.png",
+    "static/media/parkstash_logo.svg": "/static/media/parkstash_logo.ab1ee9fd.svg",
     "static/media/profilee.svg": "/static/media/profilee.c9733686.svg",
     "static/media/university.svg": "/static/media/university.22150a8c.svg",
     "static/media/wait.svg": "/static/media/wait.edf991a2.svg"
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.98076ead.js",
     "static/css/2.f47422e6.chunk.css",
-    "static/js/2.5c5afb8d.chunk.js",
-    "static/css/main.8f4b72b8.chunk.css",
-    "static/js/main.5a32103e.chunk.js"
+    "static/js/2.4cf8cc29.chunk.js",
+    "static/css/main.09ea25b4.chunk.css",
+    "static/js/main.2434945e.chunk.js"
   ]
 }
