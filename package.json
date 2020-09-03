@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "serve -s build -l 80"
+    "start": "serve -s build -l 80",
+    "publish": "git add . && git commit -m 'publishing' && git push"
   },
   "author": "",
   "license": "ISC",
